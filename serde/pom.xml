@@ -65,11 +65,11 @@
       <artifactId>commons-lang</artifactId>
       <version>${commons-lang.version}</version>
     </dependency>
-    <dependency>
-      <groupId>org.apache.arrow</groupId>
-      <artifactId>arrow-vector</artifactId>
-      <version>${arrow.version}</version>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>org.apache.arrow</groupId>-->
+<!--      <artifactId>arrow-vector</artifactId>-->
+<!--      <version>${arrow.version}</version>-->
+<!--    </dependency>-->
     <dependency>
       <groupId>org.apache.arrow</groupId>
       <artifactId>arrow-vector</artifactId>
